@@ -1,0 +1,1 @@
+Here is some more text regarding user profile settings. Users can write their name, favorite food, gender, age, and choose to get regular updates or not.
